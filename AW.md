@@ -1,4 +1,4 @@
-# 📘 AdventureWorks – Dokumentacja encji (Część 1)
+# 📘 AdventureWorks – Dokumentacja encji
 
 > Opis tabel z bazy danych AdventureWorks.  
 > Każda encja zawiera:
